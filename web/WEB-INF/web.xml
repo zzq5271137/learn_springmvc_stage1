@@ -21,7 +21,11 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>mySpringMVC</servlet-name>
-        <!-- 设置所有以action结尾的请求进入SpringMVC -->
+        <!--
+            1. /*: 拦截所有请求, 包括jsp、js、png、css, 真正的全拦截, 不建议使用
+            2. *.action、*.do: 拦截以"action"、"do"结尾的请求
+            3. /: 拦截所有请求, 包括js、png、css, 但不包括jsp, 推荐使用
+        -->
         <url-pattern>*.action</url-pattern>
     </servlet-mapping>
 </web-app>
