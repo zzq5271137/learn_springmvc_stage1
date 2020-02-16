@@ -8,10 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Learn SpringMVC stage1</title>
+    <title>Learn SpringMVC stage 1</title>
 </head>
 <body>
-<h1>Learn SpringMVC stage1</h1>
+<h1>Learn SpringMVC stage 1</h1>
 
 <a href="${pageContext.request.contextPath}/first.action">
     first request, 请求转发 -> results1.jsp
