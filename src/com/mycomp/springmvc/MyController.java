@@ -42,4 +42,5 @@ public class MyController {
         // 这是重定向
         return "redirect: /results/result1.jsp";
     }
+
 }
