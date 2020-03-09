@@ -6,12 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="291d7dcb-1d68-49da-9c5c-0798d5e76c14" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/课件/springMVC.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课件/springMVC.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课件/springMVC2.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/课件/springMVC3.xmind" beforeDir="false" />
-    </list>
+    <list default="true" id="291d7dcb-1d68-49da-9c5c-0798d5e76c14" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -334,6 +329,7 @@
       <workItem from="1582814710813" duration="7000" />
       <workItem from="1583150464903" duration="1000" />
       <workItem from="1583151067264" duration="1000" />
+      <workItem from="1583769856654" duration="1000" />
     </task>
     <servers />
   </component>
